@@ -1,0 +1,25 @@
+OAT CAPACITY ANALYSIS REPORT - LVIV
+=====================================
+Analysis Date: 2025-11-01 17:26:16.755329
+Time Period: 10 years (365 days/year)
+Observations: 3650
+
+KEY RESULTS:
+------------
+Waiting List Reduction: 99.9%
+OAT Patients Growth: 1043.4%
+Coverage Rate Increase: 15.4 percentage points
+Final Coverage: 16.8%
+WHO Target (20%): NOT ACHIEVED ✗
+
+CAPACITY UTILIZATION:
+---------------------
+Initial: 8.1%
+Final: 92.8%
+Maximum: 99.9%
+
+TREND ANALYSIS:
+---------------
+Waiting List Daily Change: -10.103 patients/day
+OAT Patients Daily Change: -14.032 patients/day
+
